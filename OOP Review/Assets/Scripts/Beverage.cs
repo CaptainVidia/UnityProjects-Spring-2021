@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * George Tang
+ * Beverge.cs
+ * OOP Review
+ * abstract class for Beverage
+ * */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

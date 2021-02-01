@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * George Tang
+ * Water.cs
+ * OOP Review
+ * water class, intherits from beverage, and methods for water
+ * */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 /*

@@ -1,4 +1,10 @@
-﻿using UnityEngine;
+﻿/*
+ * George Tang
+ * NonWater.cs
+ * OOP Review
+ * nonwater class inherits from beverage log methods for conditions
+ * */
+using UnityEngine;
 using System.Collections;
 
 public class NonWater : Beverage, Drinking, Consume

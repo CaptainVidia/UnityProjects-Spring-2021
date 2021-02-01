@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+ * George Tang
+ * Soda.cs
+ * OOP Review
+ * soda class, inherits from beverage, and mehtods for soda
+ * */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 /*
